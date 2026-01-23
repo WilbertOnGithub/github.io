@@ -1,5 +1,6 @@
 # Hugo configuration file
-title: My Site
+baseURL: "https://www.wilbertvandolleweerd.com/"
+title: "Wilbert van Dolleweerd"
 
 # import hextra as module
 module:
@@ -18,39 +19,70 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
-    - name: About
+    - name: Blog
+      pageRef: /blog
+      weight: 2      
+    - name: About me
       pageRef: /about
-      weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
       weight: 3
-    - name: Search
+    - name: Contact ↗
+      url: "mailto:wilbert@arentheym.com"
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
     - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      weight: 6
+      url: "https://github.com/WilbertOnGithub/"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
+    - name: Bluesky
+      weight: 7
+      url: "https://bsky.app/profile/weeveedee.bsky.social"
       params:
-        icon: x-twitter
+        icon: bluesky
+    - name: Theme Toggle
+      params:
+        type: theme-toggle
+        label: true
 
 params:
+  blog:
+    list:
+      displayTags: true
+  toc:
+    displayTags: true
+
+  # Display the last modification date
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"  
+
+  page:
+  # full (100%), wide (90rem), normal (1280px)
+    width: full
+    
+  # Search
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content    
+
   navbar:
     displayTitle: true
     displayLogo: false
+    
+  externalLinkDecoration: true    
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    
+enableGitInfo: true
