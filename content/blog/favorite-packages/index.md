@@ -86,6 +86,8 @@ Looking for things to spice up your userinterface?
 
 - [Phospor](https://phosphoricons.com/) - *"is a flexible icon family for interfaces, diagrams, presentations — whatever, really."*
 - [Iconify](https://iconify.design/) - over 200.000 open source vector icons.
+- [Lucide](https://lucide.dev/) - another set of open source icons.
+- [FlatIcon](https://www.flaticon.com/) - same.
 - [Spectre.Console](https://spectreconsole.net/) - *"a .NET library that makes it easier to create beautiful console applications."*
 - [Apache ECharts](https://echarts.apache.org/en/index.html) - *"An Open Source JavaScript Visualization Library"*
 - [MudBlazor](https://mudblazor.com/) - A Blazor component library.
@@ -106,7 +108,6 @@ Logging and performance related tooling.
 ### Build / install related
 Everything related to your build process and installer.
 
-- [NukeBuild](https://nuke.build/) - Hate YAML build flows? Why not use Nuke.Build to create a build locally?
 - [GitVersion](https://gitversion.net/) - Use your Git version history to determine a semantic version number.
 >[!CAUTION]
 >Beware that GitVersion needs access to your entire Git history. Some build systems only check out the latest commit to speed up the git clone.
