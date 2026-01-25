@@ -48,9 +48,7 @@ to the correct setting for the platform.
 Finally, I decided to have a look at everything in my project that could contain global configuration. Eventually, 
 I looked at my `.editorconfig` and found this:
 
-```
-end_of_line = crlf
-```
+`end_of_line = crlf`
 
 During compilation on Ubuntu, this setting **forces** line-endings to be converted to `CRLF` resulting in the earlier 
 mentioned error message. Removing this line solved the problem.
@@ -61,6 +59,6 @@ To be honest, I have no idea why I had put this in the configuration file. I sus
 Lesson learned: understand what each setting does and don't blindly copy from other projects.
 
 ## The result
-Now i could finally deploy the project succesfully. You can see the end result [here](https://wilbertvandolleweerd.com/EnergieVergelijking/).
+Now i could finally deploy the project succesfully. You can see the end result [here](https://wilbertongithub.github.io/EnergieVergelijking/).
 
 Use the code `n5lvbv` to get access.

@@ -2,6 +2,8 @@
 baseURL: "https://www.wilbertvandolleweerd.com/"
 title: "Wilbert van Dolleweerd"
 
+enableEmoji: true
+
 # import hextra as module
 module:
   imports:
