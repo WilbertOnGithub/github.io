@@ -9,15 +9,18 @@ ShowToc: true
 TocOpen: true
 
 ---
-I'm currently employed (for over 10+ years already) as a software architect for [ICT Group](https://www.ict.eu/nl) where 
+I'm currently employed (for over 13+ years already) as a software architect for [ICT Group](https://www.ict.eu/nl) where 
 I primarily use .NET/C# to create solutions for our customers. Our projects range from small, single-use applications all the way 
 up to large cloud-based projects.
 
 Half-jokingly, I usually say that being a software architect means that you made and experienced enough mistakes to know 
 what works and what doesn't. Given this experience, I have a pretty strong opinion on software development.
 
+I'm an avid reader. I have a large personal collection of the books considered to be classics for software development/architecture.
+Reading is my preferred way to gain knowledge. I usually advise our junior co-workers to pick up a certain book if they show an interest in a particular subject.  
+
 Writing is an important skill within software development. The ability to communicate ideas clearly to a diverse audience cannot be overstated.
-I'm of the opinion that you need to *practice what you preach* and thus I decided to (re)start a blog. I mainly write for myself but hey, maybe 
+I'm of the opinion that you need to *practice what you preach* and thus I decided to (re)start my blog. I mainly write for myself but hey, maybe 
 someone else finds it interesting :wink:
 
 Besides creating solutions, I love to share my knowledge. I'm an accredited trainer for the 
@@ -25,7 +28,7 @@ Besides creating solutions, I love to share my knowledge. I'm an accredited trai
 Next to that, I've created trainings for Git, both for [beginners](https://github.com/WilbertOnGithub/GitTraining_Beginners) and more 
 [advanced usage](https://github.com/WilbertOnGithub/GitTraining_Advanced).
 
-I love to attend [local user groups](https://www.meetup.com/nl-NL/nimma-codes-meetup-group/) both as a speaker and an attendant. If I find the 
+I like to attend [local user groups](https://www.meetup.com/nl-NL/nimma-codes-meetup-group/) both as a speaker and an attendant. If I find the 
 subject matter interesting, you can find me there.
 
 - For more information on my career, see my [LinkedIn profile](https://www.linkedin.com/in/wilbertvandolleweerd).
