@@ -72,8 +72,11 @@ All tools related to testing.
 - [Autofixture.Xunit2](https://www.nuget.org/packages/AutoFixture.Xunit2) - *"offers integrations with most major .NET testing frameworks."*
 - [Autofixture.AutoNSubstitute](https://www.nuget.org/packages/AutoFixture.AutoNSubstitute) - *"offers integations with most major .NET mocking libraries."* 
 - [FluentAssertions](https://fluentassertions.com/) - *"Fluent Assertions is a very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests."*
->[!NOTE]
->Since version 8, Fluent Assertions requires a commercial license.
+
+{{< callout type="note" >}}
+  Since version 8, Fluent Assertions requires a commercial license.
+{{< /callout >}}
+
 - [FluentAssertions.OneOf](https://github.com/Resultful/FluentAssertions.Resultful) - *"improves the usage of [OneOf](https://github.com/mcintyre321/OneOf/) to allow easier unit testing."*
 - [Bogus](https://github.com/bchavez/Bogus) - easily create fake data for your tests.
 - [MELT](https://github.com/alefranz/MELT) - *"MELT is a free, open-source, testing library for the .NET Standard Microsoft Extensions Logging library. It is a solution to easily test logs."*
@@ -109,9 +112,12 @@ Logging and performance related tooling.
 Everything related to your build process and installer.
 
 - [GitVersion](https://gitversion.net/) - Use your Git version history to determine a semantic version number.
->[!CAUTION]
->Beware that GitVersion needs access to your entire Git history. Some build systems only check out the latest commit to speed up the git clone.
->See the [requirements](https://gitversion.net/docs/reference/requirements) for more information.
+
+{{< callout type="warning" >}}
+  Beware that GitVersion needs access to your entire Git history. Some build systems only check out the latest commit to speed up the git clone.
+  See the [requirements](https://gitversion.net/docs/reference/requirements) for more information.
+{{< /callout >}}
+
 - [Wix](https://www.firegiant.com/wixtoolset/) - If you need to write an MSI-based installer.
 - [Dotnet outdated](https://github.com/dotnet-outdated/dotnet-outdated) - find out if your dependencies need updating.
 - [CSharpier](https://csharpier.com/) - *"is an opinionated code formatter for c# and Xml."*
