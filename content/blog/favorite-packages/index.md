@@ -2,7 +2,6 @@
 date: '2025-07-29T11:39:05+02:00'
 title: 'Favorite tooling / Nuget packages'
 summary: "My list of recommended NuGet packages and tools."
-weight: 20
 author: ["Wilbert van Dolleweerd"]
 draft: false
 categories: ["blog"]
