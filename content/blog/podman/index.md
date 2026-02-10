@@ -91,11 +91,10 @@ Now you can uninstall Docker Desktop and start on using Podman to run your conta
 {{< /callout >}}
 
 {{< callout type="important" >}}
-	UPDATE: After uninstalling Docker Desktop my ```docker compose up``` or ```podman compose up``` command was no longer 
-	working. I got an error message that the command could not be found in the path. 
-	
-	This was fixed by going to the extensions in Podman Desktop and making sure that the extension *Compose extension* is 
-	installed and enabled.
+  UPDATE: After uninstalling Docker Desktop my docker compose up or podman compose up commands were no longer 
+  working. I got an error message that the command could not be found in the path. 
+  This was fixed by going to the extensions in Podman Desktop and making sure that the extension *Compose extension* is 
+  installed and enabled.
 {{< /callout >}}
 
 
