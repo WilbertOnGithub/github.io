@@ -3,7 +3,7 @@ date: '2026-02-14T13:31:00+02:00'
 title: Migrating to Proton
 summary: "How to limit our dependency on US big tech companies."
 author: ["Wilbert van Dolleweerd"]
-draft: true
+draft: false
 categories: ["blog"]
 tags: ["Proton"]
 ---
