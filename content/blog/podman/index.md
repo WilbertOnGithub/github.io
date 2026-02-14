@@ -28,14 +28,20 @@ winget install -e --id RedHat.Podman-Desktop
 
 ## Configuring Podman Desktop
 
-After installation, Podman still needs to be set up. When starting Podman Desktop simply follow 
-the instructions. It will first want to install Podman itself. Typically, you want to run Podman using Windows Linux Subsystem (WSL v2). This is the default selection.
+After installation of Podman Desktop, Podman still needs to be set up. When starting Podman Desktop simply follow 
+the instructions. It will first want to install Podman itself. Typically, you want to run Podman using Windows Linux Subsystem (WSL v2). 
+This is the default selection.
 
-When Podman is installed, Podman Desktop will want to setup a Podman machine for you. Again, simply use the 
-default selection offered. After this part, Podman Desktop and Podman is installed and ready for use. 
+After Podman is installed, Podman Desktop will want to setup a Podman machine for you. Again, simply use the 
+default selection offered.  
 
 I recommend going to the *Settings* and *Preferences* and enabling *Docker compatibility*. This sets a Docker-compatible environment
 allowing all your tools that access Docker to use Podman.
+
+Finally, make sure that the extension *Compose extension* is enabled and activated.  This installs a Compose binary to work with Podman meaning 
+that you can use a Docker Compose command that will work with Docker Compose files.
+
+After this part, Podman Desktop and Podman is installed and ready for use.
 
 ## Using existing Docker compose files
 
@@ -90,11 +96,5 @@ Now you can uninstall Docker Desktop and start on using Podman to run your conta
   Having said that, for now I did not (yet) encounter this. Will update this post when necessary.
 {{< /callout >}}
 
-{{< callout type="important" >}}
-  UPDATE: After uninstalling Docker Desktop my docker compose up or podman compose up commands were no longer 
-  working. I got an error message that the command could not be found in the path. 
-  This was fixed by going to the extensions in Podman Desktop and making sure that the extension *Compose extension* is 
-  installed and enabled.
-{{< /callout >}}
 
 
