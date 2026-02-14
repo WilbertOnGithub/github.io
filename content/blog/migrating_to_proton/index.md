@@ -6,6 +6,7 @@ author: ["Wilbert van Dolleweerd"]
 draft: false
 categories: ["blog"]
 tags: ["Proton"]
+ShowToc: false
 ---
 # Preface
 
