@@ -47,7 +47,7 @@ The International Criminal Court is being targeted by U.S. sanctions. And don't 
 
 This means that it is not out of the question that Europeans will face disruption of U.S. online services due to a political conflict with the U.S.
 
-Finally, the U.S. has created the [CLOUD act](https://wire.com/en/blog/cloud-act-eu-data-sovereignty) in 2018. It a nutshell, it 
+Finally, the U.S. has created the [CLOUD act](https://wire.com/en/blog/cloud-act-eu-data-sovereignty) in 2018. In a nutshell, it 
 compels U.S.-based technology companies to provide data requested by law enforcement, regardless of whether that data is stored domestically or abroad. 
 
 I think that Europe should get less dependent on U.S. big tech. And as a techie, I can start doing that myself. 
@@ -89,6 +89,3 @@ This will take time, a lot of time. To get an idea of what I have to do, I came 
 For now, nothing of this list has been achieved. I plan to update this blog entry whenever I reach another (mini) milestone. I'll keep you posted!
 
 [^1]: [Online comment made by Andrew Lewis and amplified by the resharing of Tim O'Reilly](https://x.com/andlewis/status/24380177712)
-
-
-
