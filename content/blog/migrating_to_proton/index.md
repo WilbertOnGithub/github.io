@@ -78,6 +78,7 @@ This will take time, a lot of time. To get an idea of what I have to do, I came 
 - [ ] Create a new forward rule for mail still being received on my old domain to send it to my new mail address.
 - [ ] Start using my new email address for my personal communication.
 - [ ] Create a new reply rule for my old email to notify people that they should starting using the new email address.
+- [ ] Migrate all my existing mail from Google Workspace to the Proton environment.
 - [ ] Migrate all my existing calendar events to the new calendar.
 - [ ] Migrate all my existing Google Doc files to Proton Docs.
 - [ ] Migrate my existing passwords from 1Password to the Proton provided password manager (I'm actually quite happy with 1Password which is Canadian based so I first want to evaluate the Proton password manager).
