@@ -5,14 +5,14 @@ summary: "Writing your presentations in AsciiDoc"
 author: ["Wilbert van Dolleweerd"]
 draft: false
 categories: ["blog"]
-tags: ["Asciidoctor", "revealjs"]
+tags: ["AsciiDoc", "AsciiDoctor", "revealjs"]
 ShowToc: false
 ---
 I don't like creating presentations in Powerpoint. When presented with a blank slate or 
 our company template, I don't know where to start. I tend to fiddle around a lot with diagrams and pictures. 
 I would prefer if I could focus on the message that I'm trying to get across.
 
-Why not use a language like Markdown or Asciidoc which would allow me to put it into a Git repository and do versioning on it?
+Why not use a language like Markdown or AsciiDoc which would allow me to put it into a Git repository and do versioning on it?
 
 Since I'm already using [AsciiDoc](https://asciidoc.org/) for my architecture documentation using [Arc42](https://arc42.org/), 
 I started looking if someone else had already solved this.
