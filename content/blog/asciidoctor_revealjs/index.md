@@ -67,6 +67,9 @@ So this blog post is just for me so I can just offload these steps to my externa
 
 11. Optionally, at the end the Docker container can be removed (it can simpy be downloaded again for a new presentation).
 
+## Example repository
+If you want a more complete example, you can see the end result of the presentation on my [Github account.](https://github.com/WilbertOnGithub/lightningtalk_postgresql)
+
 
 ## Useful Reveal.js configuration
 Reveal.js can be configured by setting configuration options in your root document (start of your presentation). 
