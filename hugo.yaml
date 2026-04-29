@@ -4,6 +4,13 @@ title: "Wilbert van Dolleweerd"
 
 enableEmoji: true
 
+security:
+  http:
+    urls:
+      - https://cdn.jsdelivr.net/.*
+    methods:
+      - (?i)GET|POST
+    
 # import hextra as module
 module:
   imports:
@@ -93,3 +100,4 @@ params:
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
     
 enableGitInfo: true
+
